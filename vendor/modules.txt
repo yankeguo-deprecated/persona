@@ -1,0 +1,67 @@
+# github.com/ByteArena/poly2tri-go v0.0.0-20170716161910-d102ad91854f
+github.com/ByteArena/poly2tri-go
+# github.com/ajstarks/svgo v0.0.0-20200725142600-7a3c8b57fecb
+github.com/ajstarks/svgo
+# github.com/dsnet/compress v0.0.1
+github.com/dsnet/compress/brotli
+github.com/dsnet/compress/internal
+github.com/dsnet/compress/internal/errors
+# github.com/fogleman/gg v1.3.0
+github.com/fogleman/gg
+# github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0
+github.com/golang/freetype/raster
+github.com/golang/freetype/truetype
+# github.com/jung-kurt/gofpdf v1.16.2
+github.com/jung-kurt/gofpdf
+# github.com/skip2/go-qrcode v0.0.0-20200617195104-da1b6568686e
+## explicit
+github.com/skip2/go-qrcode
+github.com/skip2/go-qrcode/bitset
+github.com/skip2/go-qrcode/reedsolomon
+# github.com/tdewolff/canvas v0.0.0-20210210144621-f73efe64c447
+## explicit
+github.com/tdewolff/canvas
+github.com/tdewolff/canvas/font
+github.com/tdewolff/canvas/rasterizer
+github.com/tdewolff/canvas/text/shaping
+# github.com/tdewolff/minify/v2 v2.9.5
+github.com/tdewolff/minify/v2
+# github.com/tdewolff/parse/v2 v2.5.3
+github.com/tdewolff/parse/v2
+github.com/tdewolff/parse/v2/buffer
+github.com/tdewolff/parse/v2/strconv
+github.com/tdewolff/parse/v2/xml
+# github.com/wcharczuk/go-chart v2.0.2-0.20191206192251-962b9abdec2b+incompatible
+github.com/wcharczuk/go-chart
+github.com/wcharczuk/go-chart/drawing
+github.com/wcharczuk/go-chart/matrix
+github.com/wcharczuk/go-chart/roboto
+# golang.org/x/image v0.0.0-20200924062109-4578eab98f00
+golang.org/x/image/ccitt
+golang.org/x/image/draw
+golang.org/x/image/font
+golang.org/x/image/font/basicfont
+golang.org/x/image/font/sfnt
+golang.org/x/image/math/f64
+golang.org/x/image/math/fixed
+golang.org/x/image/tiff
+golang.org/x/image/tiff/lzw
+golang.org/x/image/vector
+# golang.org/x/text v0.3.3
+golang.org/x/text/encoding
+golang.org/x/text/encoding/charmap
+golang.org/x/text/encoding/internal
+golang.org/x/text/encoding/internal/identifier
+golang.org/x/text/transform
+# gonum.org/v1/plot v0.8.0
+gonum.org/v1/plot/vg
+gonum.org/v1/plot/vg/draw
+gonum.org/v1/plot/vg/fonts
+gonum.org/v1/plot/vg/vgeps
+gonum.org/v1/plot/vg/vgimg
+gonum.org/v1/plot/vg/vgpdf
+gonum.org/v1/plot/vg/vgsvg
+gonum.org/v1/plot/vg/vgtex
+# gopkg.in/yaml.v2 v2.4.0
+## explicit
+gopkg.in/yaml.v2

@@ -1,0 +1,42 @@
+id: bitcoin-btc
+name: "Bitcoin (BTC)"
+address: "bc1q5s6wwn3f4nj9sygv9fzwzuuuqqve0323mnwf8e"
+---
+id: ethereum-eth
+name: "Ethereum (ETH)"
+address: "0xCcf1eB465a1DAcAF10B2350D687A558c68F8a41e"
+tokens:
+  - id: "binance-usd-busd"
+    name: "Binance USD (BUSD)"
+---
+id: cardano-ada
+name: "Cardano (ADA)"
+address: "addr1q9aemmfl4qr8sjp2xj5zupzvuamuw36z5awv865qt0lsl3pj72alpak07tadfuusgl5guq3ndtr3r2aknt4c3tgny7eqna8kkj"
+---
+id: dash-dash
+name: "Dash"
+address: "Xi3GJDH648p4YTdiUsiZrpMWpooPEQY4jj"
+---
+id: digibyte-dgb
+name: "Digibyte (DGB)"
+address: "SgdC6xARb2MniD9YZZ1CNFvm9hacM92q2G"
+---
+id: eos-eos
+name: "EOS"
+address: "scpmtfmu4eos"
+---
+id: monero-xmr
+name: "Monero (XMR)"
+address: "44gA8fTqoMCSz9gTT68pfyEJdhcVYyYSdhCLkYoetchcBZkskNx3AGqdH2oAVLw877Sw6uqeFmcQJQDpJPmv6uoS42ajPit"
+---
+id: stellar-xlm
+name: "Stellar (XLM)"
+address: "GDX3GUT5YG6LAYI63PVWCAKCQW3IX7CGJG24DEQKXAU3V55755WNILFD"
+---
+id: xrp-xrp
+name: "Ripple (XRP)"
+address: "rsmfw814NSwrpeqanw8Z2ydVB8M7jpw8EW"
+---
+id: zcash-zec
+name: "Zcash (ZEC)"
+address: "t1UaDf3RdqfPyaZ9txJ9bLXvjCMdhFT7PQ5"
